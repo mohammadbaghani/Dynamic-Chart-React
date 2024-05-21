@@ -2,7 +2,7 @@ In this project every one can choose his or her skills and then can compare them
 
 Tip :Live of project has some differences. You can see an online monitoring chart in live project
 
-See as  live here : https://inforayan.iran.liara.run/
+See as  live here : https://chart.liara.run/
 
 
 
@@ -11,6 +11,6 @@ See as  live here : https://inforayan.iran.liara.run/
 
 نکته : پروژه به صورت لایو با گیت هاب کمی متفاوت است مانیتورینگ لحظه ای با نمودار است
 
-مشاهده پروژه مانیتورینگ با نمودار به صورت لایو اینجا : https://inforayan.iran.liara.run/ 
+مشاهده پروژه مانیتورینگ با نمودار به صورت لایو اینجا : https://chart.liara.run/
 
 
