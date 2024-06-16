@@ -1,6 +1,6 @@
 In this project every one can choose his or her skills and then can compare them in a chart
 
-See as  live here : https://chart.liara.run/
+See as  live here :  https://sanjimo.liara.run
 
 
 
