@@ -2,7 +2,7 @@
 
 Dynamic chart depends to user choice
 
-In this project every one can choose his or her skills and then can compare them in a chart
+In this project user can choose skills and then compare them in a chart
 
 
 
