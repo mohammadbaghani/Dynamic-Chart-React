@@ -1,4 +1,9 @@
+نمودار داینامیک  با انتخاب کاربر 
+
+Dynamic chart depends to user choice
+
 In this project every one can choose his or her skills and then can compare them in a chart
+
 
 
 
